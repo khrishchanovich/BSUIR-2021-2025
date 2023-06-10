@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/n">
+        <file>ff/balloon.png</file>
+        <file>ff/cursor.png</file>
+        <file>ff/menu_background.png</file>
+        <file>ff/rqTJpL.png</file>
+    </qresource>
+</RCC>
