@@ -1,0 +1,12 @@
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab7\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

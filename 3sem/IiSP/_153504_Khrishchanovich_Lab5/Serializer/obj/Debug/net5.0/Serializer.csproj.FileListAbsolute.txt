@@ -1,0 +1,15 @@
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.csproj.AssemblyReference.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfoInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.AssemblyInfo.cs
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\Serializer.deps.json
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\Serializer.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\ref\Serializer.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\Serializer.pdb
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\bin\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.pdb
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.csproj.CopyComplete
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\ref\Serializer.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\Serializer\obj\Debug\net5.0\Serializer.pdb

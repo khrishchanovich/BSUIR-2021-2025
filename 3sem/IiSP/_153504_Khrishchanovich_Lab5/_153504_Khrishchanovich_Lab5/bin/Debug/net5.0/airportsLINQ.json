@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Airports>
+  <Airport name="Airport1">
+    <Runway name="Runway1" length="100" />
+    <Runway name="Runway2" length="200" />
+  </Airport>
+  <Airport name="Airport2">
+    <Runway name="Runway3" length="300" />
+    <Runway name="Runway4" length="400" />
+  </Airport>
+  <Airport name="Airport3">
+    <Runway name="Runway3" length="300" />
+    <Runway name="Runway4" length="400" />
+  </Airport>
+  <Airport name="Airport4">
+    <Runway name="Runway1" length="100" />
+    <Runway name="Runway2" length="200" />
+  </Airport>
+</Airports>

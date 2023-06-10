@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Robertov Robert Robertovich",
+    "Age": 39,
+    "Work": true
+  },
+  {
+    "Name": "Luisov Luis Luisovich",
+    "Age": 73,
+    "Work": false
+  },
+  {
+    "Name": "Donatelov Donatelo Donatelovich",
+    "Age": 48,
+    "Work": true
+  },
+  {
+    "Name": "",
+    "Age": 0,
+    "Work": false
+  }
+]

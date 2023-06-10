@@ -1,0 +1,12 @@
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.csproj.AssemblyReference.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.AssemblyInfoInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.AssemblyInfo.cs
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\bin\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.deps.json
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\bin\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\bin\Debug\net5.0\ref\_153504_Khrishchanovich_Lab5.Domain.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\bin\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.pdb
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\ref\_153504_Khrishchanovich_Lab5.Domain.dll
+D:\University\Glamazdin, Programming\_153504_Khrishchanovich_Lab5\_153504_Khrishchanovich_Lab5.Domain\obj\Debug\net5.0\_153504_Khrishchanovich_Lab5.Domain.pdb
