@@ -1,0 +1,15 @@
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.exe
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.deps.json
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.json
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.runtimeconfig.dev.json
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.dll
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\ref\Lab6.dll
+D:\University\Glamazdin, Programming\Lab6\Lab6\bin\Debug\net5.0\Lab6.pdb
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfoInputs.cache
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.AssemblyInfo.cs
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.dll
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\ref\Lab6.dll
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.pdb
+D:\University\Glamazdin, Programming\Lab6\Lab6\obj\Debug\net5.0\Lab6.genruntimeconfig.cache

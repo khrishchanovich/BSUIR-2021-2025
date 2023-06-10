@@ -1,0 +1,6 @@
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\bin\Debug\_153504_Khrishchanovich.exe
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\bin\Debug\_153504_Khrishchanovich.pdb
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\obj\Debug\_153504_Khrishchanovich.csproj.AssemblyReference.cache
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\obj\Debug\_153504_Khrishchanovich.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\obj\Debug\_153504_Khrishchanovich.exe
+D:\University\Glamazdin, Programming\Lab1\Lab1\_153504_Khrishchanovich\obj\Debug\_153504_Khrishchanovich.pdb

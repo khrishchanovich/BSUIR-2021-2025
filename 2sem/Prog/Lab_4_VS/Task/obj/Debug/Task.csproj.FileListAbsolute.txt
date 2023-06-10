@@ -1,0 +1,7 @@
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\bin\Debug\Task.exe.config
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\bin\Debug\Task.exe
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\bin\Debug\Task.pdb
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\obj\Debug\Task.exe
+D:\University\Glamazdin, Programming\Lab_4_VS\Task\obj\Debug\Task.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lab8</id>
+    <version>1.0.0</version>
+    <authors>Lab8</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\University\Glamazdin, Programming\Lab8\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json" target="lib\net5.0\Lab8.runtimeconfig.json" />
+    <file src="D:\University\Glamazdin, Programming\Lab8\Lab8\bin\Debug\net5.0\Lab8.dll" target="lib\net5.0\Lab8.dll" />
+  </files>
+</package>
