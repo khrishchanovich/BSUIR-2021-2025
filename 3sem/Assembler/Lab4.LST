@@ -1,0 +1,31 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 86 00        ldaa #0
+  C002 CE 82 00     ldx #$8200
+                   Loop:
+  C005 A7 00        staa 0,x
+  C007 4C           inca
+  C008 08           inx
+  C009 8C 82 FF     cpx #$82ff
+  C00C 2F F7        ble Loop
+
+  C00E CE 82 00     ldx #$8200 ;
+  C011 18 CE 82 FF  ldy #$82ff ;
+
+                   Swap:
+  C015 A6 00        ldaa 0,x
+  C017 36           psha
+  C018 18 A6 00     ldaa 0,y
+  C01B A7 00        staa 0,x
+  C01D 32           pula
+  C01E 18 A7 00     staa 0,y
+  C021 08           inx
+  C022 18 09        dey
+  C024 8C 82 80     cpx #$8280
+  C027 2F EC        ble swap
+
+
+  Symbol Table 
+
+  SWAP               C015
+  LOOP               C005

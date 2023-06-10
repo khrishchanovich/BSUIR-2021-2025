@@ -1,0 +1,43 @@
+  ADDR B1 B2 B3 B4 D:\Documents\Assembler\d1.asm                    PAGE       1
+
+  C000 FF 84 00     stx $8400
+  C003 18 FF 84 03  sty $8403
+
+  C007 B7 84 10     staa $8410
+  C00A F7 84 11     stab $8411
+
+  C00D CE C8 FD     ldx #$c8fd
+  C010 18 CE C7 FE  ldy #$c7fe
+  C014 86 C6        ldaa #$c6
+  C016 C6 C5        ldab #$c5
+
+  C018 86 C8        ldaa #$c8
+  C01A C6 C6        ldab #$c6
+  C01C 3D           mul
+  C01D FD 84 12     std $8412
+
+  C020 86 FD        ldaa #$fd
+  C022 C6 C5        ldab #$c5
+  C024 3D           mul
+  C025 FD 84 14     std $8414
+
+  C028 86 C7        ldaa #$c7
+  C02A C6 C6        ldab #$c6
+  C02C 3D           mul
+  C02D FD 84 16     std $8416
+
+  C030 86 FE        ldaa #$fe
+  C032 C6 C5        ldab #$c5
+  C034 3D           mul
+  C035 FD 84 18     std $8418
+
+  C038 FC 84 12     ldd $8412
+  C03B F3 84 14     addd $8414
+  C03E F3 84 16     addd $8416
+  C041 F3 84 18     addd $8418
+
+  C044 FD 84 20     std $8420
+
+
+
+

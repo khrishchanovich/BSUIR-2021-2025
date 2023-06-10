@@ -1,0 +1,10 @@
+  ADDR B1 B2 B3 B4 D:\Documents\Assembler\delete.asm                PAGE       1
+
+  C000 96 C8        ldaa @310
+  C002 18 CE 87 00  ldy #$8700
+  C006 18 A7 14     staa 20,y
+  C009 CD EE 14     ldx 20,y
+  C00C 35           txs
+  C00D 3C           pshx
+  C00E 33           pulb
+  C00F 30           tsx

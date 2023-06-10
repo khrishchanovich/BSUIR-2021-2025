@@ -1,0 +1,10 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+                    org $8000
+  8000 B7 81 00     staa $8100
+  8003 F7 81 01     stab $8101
+  8006 FF 81 02     stx $8102
+  8009 18 FF 81 04  sty $8104
+  800D 07           tpa
+  800E B7 81 06     staa $8106
+  8011 BF 81 07     sts $8107

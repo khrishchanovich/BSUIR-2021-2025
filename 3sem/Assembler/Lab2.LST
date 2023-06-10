@@ -1,0 +1,21 @@
+  ADDR B1 B2 B3 B4 D:\Documents\Assembler\Lab2.asm                  PAGE       1
+
+  C000 CE 66 66     ldx #$6666
+  C003 18 CE 77 77  ldy #$7777
+  C007 DF 00        stx $0
+  C009 18 DF 02     sty $2
+
+  C00C DC 02        ldd $2
+  C00E 93 00        subd $0
+  C010 1B           aba
+
+  C011 C6 00        ldab #$0
+  C013 B7 01 00     staa $0100
+  C016 86 10        ldaa #$10
+  C018 07           tpa
+  C019 B7 01 01     staa $0101
+  C01C B6 01 00     ldaa $0100
+  C01F 11           cba
+  C020 07           tpa
+  C021 F6 01 01     ldab $0101
+  C024 10           sba

@@ -1,0 +1,34 @@
+  ADDR B1 B2 B3 B4 thrass11.tmp                                     PAGE       1
+
+  C000 86 0F        ldaa #%00001111 ;
+  C002 C6 0F        ldab #%00001111
+
+  C004 DD 02        std $2
+
+  C006 86 AB        ldaa #%10101011 ;
+  C008 97 04        staa $4
+
+  C00A 96 02        ldaa $2
+  C00C 97 01        staa $1
+
+  C00E C6 07        ldab #7
+
+                   HIGHEST_TO_LOWEST_POS:
+
+  C010 74 00 01     lsr $1
+  C013 5A           decb
+
+  C014 26 FA        bne HIGHEST_TO_LOWEST_POS
+
+  C016 15 04 01     bclr $4,#%00000001 ;      ,
+
+  C019 D6 04        ldab $4
+
+  C01B DA 01        orab $1 ;    0,   1 -   1, 0 - 0-6
+  C01D D7 04        stab $4
+  C01F 78 00 02     lsl $2 ;
+  C022 78 00 03     lsl $3 ;
+
+  Symbol Table 
+
+  HIGHEST_TO_LOWEST_POS C010
