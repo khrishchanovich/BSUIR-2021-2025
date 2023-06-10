@@ -1,0 +1,62 @@
+﻿  Lab8.cpp
+D:\Code C\Lab7\Lab8\Lab8.cpp(142,20): warning C4129: .: неизвестная escape-последовательность
+D:\Code C\Lab7\Lab8\Lab8.cpp(141,15): warning C4244: инициализация: преобразование "ReturnValue" в "float", возможна потеря данных
+          with
+          [
+              ReturnValue=long double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(672,31): warning C4244: return: преобразование "double" в "_Rx", возможна потеря данных
+          with
+          [
+              _Rx=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,std::string&>(_Fx,std::string &) noexcept(false)"
+          with
+          [
+              _Rx=float,
+              _Callable=main::<lambda_3>,
+              _Fx=main::<lambda_3> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(833,9): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Rx std::_Invoker_ret<_Rx>::_Call<_Callable&,std::string&>(_Fx,std::string &) noexcept(false)"
+          with
+          [
+              _Rx=float,
+              _Callable=main::<lambda_3>,
+              _Fx=main::<lambda_3> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(832,1): message : во время компиляции функции-члена класс шаблон "_Rx std::_Func_impl_no_alloc<main::<lambda_3>,_Rx,std::string &>::_Do_call(std::string &)"
+          with
+          [
+              _Rx=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(730,13): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::_Func_impl_no_alloc<main::<lambda_3>,_Ret,std::string &>"
+          with
+          [
+              _Ret=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(916,23): message : выполняется компиляция ссылки на шаблон переменной "const bool _Is_large<std::_Func_impl_no_alloc<`main'::`2'::<lambda_3>,float,std::basic_string<char,std::char_traits<char>,std::allocator<char> > &> >"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Func_class<_Ret,std::string &>::_Reset<_Ty>(_Fx &&)"
+          with
+          [
+              _Ret=float,
+              _Ty=main::<lambda_3>,
+              _Fx=main::<lambda_3>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\functional(1043,21): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Func_class<_Ret,std::string &>::_Reset<_Ty>(_Fx &&)"
+          with
+          [
+              _Ret=float,
+              _Ty=main::<lambda_3>,
+              _Fx=main::<lambda_3>
+          ]
+D:\Code C\Lab7\Lab8\Lab8.cpp(139,54): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::function<float (std::string &)>::function<main::<lambda_3>,0>(_Fx &&)"
+          with
+          [
+              _Fx=main::<lambda_3>
+          ]
+D:\Code C\Lab7\Lab8\Lab8.cpp(137,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::function<float (std::string &)>::function<main::<lambda_3>,0>(_Fx &&)"
+          with
+          [
+              _Fx=main::<lambda_3>
+          ]
+  Lab8.vcxproj -> D:\Code C\Lab7\Debug\Lab8.exe

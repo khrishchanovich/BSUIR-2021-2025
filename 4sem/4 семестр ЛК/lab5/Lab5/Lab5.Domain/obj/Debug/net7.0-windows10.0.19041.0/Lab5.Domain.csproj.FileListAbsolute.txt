@@ -1,0 +1,12 @@
+D:\lab5\Lab5\Lab5.Domain\bin\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.deps.json
+D:\lab5\Lab5\Lab5.Domain\bin\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.dll
+D:\lab5\Lab5\Lab5.Domain\bin\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.pdb
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.csproj.AssemblyReference.cache
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.AssemblyInfoInputs.cache
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.AssemblyInfo.cs
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.csproj.CoreCompileInputs.cache
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.dll
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\refint\Lab5.Domain.dll
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\Lab5.Domain.pdb
+D:\lab5\Lab5\Lab5.Domain\obj\Debug\net7.0-windows10.0.19041.0\ref\Lab5.Domain.dll

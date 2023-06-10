@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Name="shell"
+    x:Class="Lab3.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:viewmodel="clr-namespace:Lab3.ViewModel"
+    xmlns:view="clr-namespace:Lab3.View"
+    xmlns:local="clr-namespace:Lab3.View"
+    Shell.TabBarIsVisible="False">
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+        <ShellContent
+            Shell.NavBarIsVisible="false"  
+            FlyoutIcon="bankcurrency.png"
+            Title="CurrencyConverter"
+            ContentTemplate="{DataTemplate local:СurrencyСonverterPage}"
+            Route="CurrencyConverterPage" />
+    </FlyoutItem>
+
+
+</Shell>

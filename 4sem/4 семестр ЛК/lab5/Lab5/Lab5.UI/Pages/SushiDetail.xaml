@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab5.UI.Pages.SushiDetails"
+             xmlns:models="clr-namespace:Lab5.UI.ViewModels"
+             x:DataType="models:SushiDetailsViewModel"
+             xmlns:ent="clr-namespace:Lab5.Domain.Entities;assembly=153504_Khrishchanovich.Domain"
+             Title="{Binding SelectedSushi.Name}">
+    <VerticalStackLayout>
+        <Image Source="{Binding SelectedSushi.Id, Converter={StaticResource SushiIdToImageValueConverter}}"
+               WidthRequest="200"
+               HeightRequest="400"
+               HorizontalOptions="Center"/>
+        <Label 
+            Text="{Binding SelectedSushi.Name}"
+            FontAttributes="Bold"
+            FontSize="40"
+            HorizontalOptions="Center"/>
+        <Label Padding="10"
+               HorizontalOptions="Center">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Количество суши: "/>
+                    <Span Text="{Binding SelectedSushi.Amount}"/>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <Button Text="Edit"
+                Command="{Binding GoToEditPageCommand}"
+                WidthRequest="200"
+                HeightRequest="20"/>
+    </VerticalStackLayout>
+</ContentPage>

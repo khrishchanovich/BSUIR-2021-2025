@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab5.UI.Pages.AddSushiPage"
+             xmlns:viewmodel="clr-namespace:Lab5.UI.ViewModels"
+             x:DataType="viewmodel:AddSushiViewModel"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             Title="AddSushiPage">
+
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"
+                                        Command="{Binding InitStartDataCommand}"/>
+    </ContentPage.Behaviors>
+
+    <Grid WidthRequest="600"
+          HeightRequest="400"
+          RowDefinitions="*,*,*,*,*,*"
+          ColumnDefinitions="*,3*"
+          Margin="10,20,10,10">
+        <Label Text="Adding a sushi"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               Grid.ColumnSpan="2"
+               Grid.Row="0"/>
+        <Label Text="Name:"
+               FontSize="Medium"
+               Grid.Column="0"
+               Grid.Row="1"
+               Margin="0,30,0,10"/>
+        <Entry x:Name="nameEntry"
+               Text="{Binding Name}"
+               Placeholder="Sushi name"
+               Grid.Column="1"
+               Grid.Row="1"
+               Margin="10"/>
+        <Label Text="Description:"
+               FontSize="Medium"
+               Grid.Column="0"
+               Grid.Row="2"
+               Margin="0,30,0,10"/>
+        <Entry x:Name="descriptionEntry"
+               Text="{Binding Description}"
+               Placeholder="Sushi description"
+               Grid.Column="1"
+               Grid.Row="2"
+               Margin="10"/>
+        <Label Text="Amount:"
+               FontSize="Medium"
+               Grid.Column="0"
+               Grid.Row="3"
+               Margin="0,30,0,10"/>
+        <Entry x:Name="amountEntry"
+               Text="{Binding Amount}"
+               Placeholder="amount"
+               Grid.Column="1"
+               Grid.Row="3"
+               Margin="10"/>
+        <Label Text="Sushi Set"
+               FontSize="Medium"
+               Grid.Column="0"
+               Grid.Row="4"
+               Margin="0,30,0,10"/>
+        <Picker ItemsSource="{Binding SushiSets}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedSet}"
+                Grid.Row="4"
+                Grid.Column="1"/>
+        <Button x:Name="addButton"
+                Text="Add"
+                Grid.ColumnSpan="2"
+                Grid.Row="5"
+                HeightRequest="10"
+                WidthRequest="120"
+                Margin="10"
+                Command="{Binding AddSushiCommand}"/>
+    </Grid>
+</ContentPage>

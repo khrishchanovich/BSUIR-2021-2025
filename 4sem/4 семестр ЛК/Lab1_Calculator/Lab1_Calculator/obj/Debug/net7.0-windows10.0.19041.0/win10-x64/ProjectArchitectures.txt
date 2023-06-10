@@ -1,0 +1,1 @@
+D:\Lab1_Calculator\Lab1_Calculator\Lab1_Calculator.csproj;x64

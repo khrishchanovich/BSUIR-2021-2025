@@ -1,0 +1,21 @@
+﻿  Source.cpp
+D:\Code C\aisd\aisd\Source.cpp(62,19): error C2131: выражение не определяется константой
+D:\Code C\aisd\aisd\Source.cpp(60,21): message : сбой вызван чтением переменной вне срока ее существования
+D:\Code C\aisd\aisd\Source.cpp(60,21): message : см. использование "n"
+D:\Code C\aisd\aisd\Source.cpp(63,23): error C2131: выражение не определяется константой
+D:\Code C\aisd\aisd\Source.cpp(63,15): message : сбой вызван чтением переменной вне срока ее существования
+D:\Code C\aisd\aisd\Source.cpp(63,15): message : см. использование "n"
+D:\Code C\aisd\aisd\Source.cpp(67,23): error C3863: тип массива "Point [mid+1]" является неназначаемым
+D:\Code C\aisd\aisd\Source.cpp(70,23): error C3863: тип массива "Point [n-mid-1]" является неназначаемым
+D:\Code C\aisd\aisd\Source.cpp(76,17): error C2131: выражение не определяется константой
+D:\Code C\aisd\aisd\Source.cpp(76,17): message : сбой вызван чтением переменной вне срока ее существования
+D:\Code C\aisd\aisd\Source.cpp(76,17): message : см. использование "n"
+D:\Code C\aisd\aisd\Source.cpp(80,24): error C3863: тип массива "Point [n]" является неназначаемым
+D:\Code C\aisd\aisd\Source.cpp(87,14): error C2131: выражение не определяется константой
+D:\Code C\aisd\aisd\Source.cpp(87,14): message : сбой вызван чтением переменной вне срока ее существования
+D:\Code C\aisd\aisd\Source.cpp(87,14): message : см. использование "n"
+D:\Code C\aisd\aisd\Source.cpp(88,14): error C2131: выражение не определяется константой
+D:\Code C\aisd\aisd\Source.cpp(88,14): message : сбой вызван чтением переменной вне срока ее существования
+D:\Code C\aisd\aisd\Source.cpp(88,14): message : см. использование "n"
+D:\Code C\aisd\aisd\Source.cpp(90,15): error C3863: тип массива "Point [n]" является неназначаемым
+D:\Code C\aisd\aisd\Source.cpp(91,15): error C3863: тип массива "Point [n]" является неназначаемым

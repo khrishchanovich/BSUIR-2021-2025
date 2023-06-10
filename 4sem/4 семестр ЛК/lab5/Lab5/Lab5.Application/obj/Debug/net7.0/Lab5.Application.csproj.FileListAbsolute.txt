@@ -1,0 +1,15 @@
+D:\lab5\Lab5\Lab5.Application\bin\Debug\net7.0\Lab5.Application.deps.json
+D:\lab5\Lab5\Lab5.Application\bin\Debug\net7.0\Lab5.Application.dll
+D:\lab5\Lab5\Lab5.Application\bin\Debug\net7.0\Lab5.Application.pdb
+D:\lab5\Lab5\Lab5.Application\bin\Debug\net7.0\Lab5.Domain.dll
+D:\lab5\Lab5\Lab5.Application\bin\Debug\net7.0\Lab5.Domain.pdb
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.csproj.AssemblyReference.cache
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.AssemblyInfoInputs.cache
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.AssemblyInfo.cs
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.csproj.CoreCompileInputs.cache
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.csproj.CopyComplete
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.dll
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\refint\Lab5.Application.dll
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\Lab5.Application.pdb
+D:\lab5\Lab5\Lab5.Application\obj\Debug\net7.0\ref\Lab5.Application.dll

@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = lab5.UI
+build_property.ProjectDir = D:\lab5\lab5.UI\
+
+[D:/lab5/lab5.UI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/lab5/lab5.UI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/lab5/lab5.UI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/lab5/lab5.UI/Pages/AddMusicianPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Pages.AddMusicianPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddMusicianPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddMusicianPage.xaml
+
+[D:/lab5/lab5.UI/Pages/AddSongPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Pages.AddSongPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddSongPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddSongPage.xaml
+
+[D:/lab5/lab5.UI/Pages/EditSongPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Pages.EditSongPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EditSongPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EditSongPage.xaml
+
+[D:/lab5/lab5.UI/Pages/MusiciansPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Pages.MusiciansPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MusiciansPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MusiciansPage.xaml
+
+[D:/lab5/lab5.UI/Pages/SongDetailsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Pages.SongDetailsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SongDetailsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SongDetailsPage.xaml
+
+[D:/lab5/lab5.UI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/lab5/lab5.UI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = lab5.UI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_1.ProgressPage"
+             Title="Progress">
+
+    <AbsoluteLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            AbsoluteLayout.LayoutBounds="520,0"
+            x:Name="label"/>
+
+        <ProgressBar
+            ProgressColor="MediumPurple"
+            Progress="0"
+            WidthRequest="300"
+            AbsoluteLayout.LayoutBounds="445,200"
+            x:Name="progrBar"/>
+
+        <Label Text="0%"
+               AbsoluteLayout.LayoutBounds="590,260"
+               FontSize="20"
+               x:Name="progr"/>
+
+        <Grid ColumnDefinitions="*,*"
+              WidthRequest="300"
+              AbsoluteLayout.LayoutBounds="445,450"
+              ColumnSpacing="10">
+
+            <Button Text="Start"
+                    Grid.Column="0"
+                    Clicked="OnStart"/>
+
+            <Button Text="Cancel"
+                    Grid.Column="1"
+                    Clicked="OnCancel"/>
+
+        </Grid>
+    </AbsoluteLayout>
+</ContentPage>

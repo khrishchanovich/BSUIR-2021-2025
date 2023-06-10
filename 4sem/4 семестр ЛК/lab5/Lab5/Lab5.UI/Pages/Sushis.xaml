@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab5.UI.Pages.Sushis"
+             xmlns:converter="clr-namespace:Lab5.UI.ValueConverters"
+             xmlns:models="clr-namespace:Lab5.UI.ViewModels"
+             x:DataType="models:SushisViewModel"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:ent="clr-namespace:Lab5.Domain.Entities;assembly=Lab5.Domain"
+             Title="Suhis">
+    <ContentPage.Resources>
+        <converter:SushiAmountToColorValueConverter x:Key="amountToColor"/>
+    </ContentPage.Resources>
+
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"
+                                        Command="{Binding UpdateGroupListCommand}"/>
+
+    </ContentPage.Behaviors>
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Picker Title="Select sushi set"
+                ItemsSource="{Binding SushiSets}"
+                ItemDisplayBinding="{Binding Name}"
+                SelectedItem="{Binding SelectedSushiSet}">
+                <Picker.Behaviors>
+                    <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                                Command="{Binding UpdateMemberListCommand}"/>
+
+                </Picker.Behaviors>
+            </Picker>
+
+            <Border Stroke="Lime"
+                Padding="15">
+                <Border.StrokeShape>
+                    <RoundRectangle CornerRadius="10" />
+                </Border.StrokeShape>
+                <VerticalStackLayout>
+                    <Label Padding="10">
+                        <Label.FormattedText>
+                            <FormattedString>
+                                <Span Text=" «"
+                                  FontAttributes="Bold"/>
+                                <Span Text="{Binding SelectedSushiSet.Title}"
+                                  FontAttributes="Bold"/>
+                                <Span Text="»"
+                                  FontAttributes="Bold"/>
+                            </FormattedString>
+                        </Label.FormattedText>
+                    </Label>
+                    <Label Text="{Binding SelectedSushiSet.Amount}"
+                       Padding="10"/>
+                </VerticalStackLayout>
+            </Border>
+
+            <CollectionView ItemsSource="{Binding Sushis}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="ent:Sushi">
+                        <Border Stroke="DarkGray"
+                            Padding="10">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="10" />
+                            </Border.StrokeShape>
+                            <HorizontalStackLayout>
+                                <Image Source="{Binding Id, Converter={StaticResource SushiIdToImageValueConverter}}"
+                                       WidthRequest="50"
+                                       HeightRequest="50"
+                                       Aspect="AspectFill"/>
+                                <Label Text="{Binding Name}"
+                                   TextColor ="{Binding Path=Amount,
+                                                             Converter={StaticResource amountToColor}}"
+                                   Padding="10"/>
+                            </HorizontalStackLayout>
+
+                            <Border.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type models:SushisViewModel}}, Path=ShowDetailsCommand}"
+                                                      CommandParameter="{Binding .}"/>
+
+                            </Border.GestureRecognizers>
+                        </Border>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

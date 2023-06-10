@@ -1,0 +1,6 @@
+D:\Lab5\Lab5\Lab5.Application\Lab5.Application.csproj;neutral
+D:\Lab5\Lab5\Lab5.Domain\Lab5.Domain.csproj;neutral
+D:\Lab5\Lab5\Lab5.Domain\Lab5.Domain.csproj;neutral
+D:\Lab5\Lab5\Lab5.Domain\Lab5.Domain.csproj;neutral
+D:\Lab5\Lab5\Lab5.Persistense\Lab5.Persistense.csproj;neutral
+D:\Lab5\Lab5\Lab5.UI\Lab5.UI.csproj;x64

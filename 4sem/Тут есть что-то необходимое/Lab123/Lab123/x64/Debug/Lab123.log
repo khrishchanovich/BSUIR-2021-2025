@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Code C\Lab123\Lab123\Source.cpp(162,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Code C\Lab123\Lab123\Source.cpp(280,29): warning C4804: -: небезопасное использование типа "bool" в операции
+  Lab123.vcxproj -> D:\Code C\Lab123\x64\Debug\Lab123.exe
